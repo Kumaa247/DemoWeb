@@ -9,6 +9,7 @@ using DemoWeb.Models;
 namespace DemoWeb.Controllers
 {
     // jđaookaênoiạdaksnalkdnàlksdfnăd
+    public class QUanQUe { }
     public class CategoriesController : Controller
     {
         DBSportStoreEntities database = new DBSportStoreEntities();
