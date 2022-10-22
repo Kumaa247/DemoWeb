@@ -9,7 +9,7 @@ using DemoWeb.Models;
 namespace DemoWeb.Controllers
 {
     // jđaookaênoiạdaksnalkdnàlksdfnăd
-    public class Angang { }
+    public class Angang { }test
     public class CategoriesController : Controller
     {
         DBSportStoreEntities database = new DBSportStoreEntities();
